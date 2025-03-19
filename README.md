@@ -1,6 +1,6 @@
 # KaiFlix
 
-A free movie and show streaming site
+A free movie and show streaming site. Check it out here (once it's done lol): https://kaiflix.vercel.app
 
 ## Getting Started
 
