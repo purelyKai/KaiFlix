@@ -19,7 +19,7 @@ const Hero = () => {
     <div className="relative h-screen flex items-center justify-center">
       <div className="absolute inset-0 bg-[url('/hero-bg.jpg')] bg-cover bg-center" />
       <div className="absolute inset-0 bg-black/60" />
-      <div className="relative z-10 text-center">
+      <div className="relative text-center">
         <motion.h1
           className="text-5xl md:text-7xl font-bold text-white mb-8"
           initial={{ opacity: 0, y: -50 }}
