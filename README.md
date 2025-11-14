@@ -1,11 +1,24 @@
 # KaiFlix
 
-A free movie and show streaming site. Check it out here (once it's done lol): https://kaiflix.vercel.app
+A free movie and show streaming site. Check it out here (once it's done lol): [kaiflix.vercel.app](https://kaiflix.vercel.app)
 
-## Getting Started
+![KaiFlix Preview](proof.JPG)
 
-First, run the development server:
+## 🏃 Getting Started
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
+
+# Build for production
+npm run build
 ```
+
+Visit [http://localhost:3000](http://localhost:3000) to view the app.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
